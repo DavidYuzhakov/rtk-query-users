@@ -1,10 +1,10 @@
 # React + TypeScript + Vite
 
 ## Stack 
-React.js
-TypeScript
-Redux Toolkit
-RTK Query
+- React.js
+- TypeScript
+- Redux Toolkit
+- RTK Query
 
 ## Other:
 - json-server
@@ -13,4 +13,4 @@ RTK Query
 - vite
 
 
-// 42
+/// 42
